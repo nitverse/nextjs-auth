@@ -11,7 +11,7 @@ export default async function Home() {
         <p className="text-white space-y-6 text-lg">A Simple Auth Service</p>
       </div>
       <LoginButton>
-        <Button className="space-y-6" variant="secondary" size="lg">
+        <Button className="space-y-6 my-4" variant="secondary" size="lg">
           Sign In
         </Button>
       </LoginButton>

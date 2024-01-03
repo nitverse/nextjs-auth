@@ -2,9 +2,12 @@
 @tailwind components;
 @tailwind utilities;
  
+<<<<<<< HEAD
 html , body, :root {
   height: 100%;
 }
+=======
+>>>>>>> 09d2067 (added shadcn)
 @layer base {
   :root {
     --background: 0 0% 100%;

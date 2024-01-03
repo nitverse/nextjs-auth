@@ -9,7 +9,7 @@ const LoginForm: FC<LoginFormProps> = ({}) => {
   return (
 
     <CardWrapper headerLabel='Welcome Back!' backButtonHref='/auth/register' backButtonLabel="Don't Have an Account?" showSocial>
-      Login Form
+      Login Form !
     </CardWrapper>
 )
 }

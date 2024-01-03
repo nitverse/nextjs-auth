@@ -1,5 +1,5 @@
 # nextjs-auth
-add advanced authentication to your NextJS App.
+Add advanced authentication to your NextJS App.
 
 Key Features:
 - 🔐 Next-auth v5 (Auth.js)
